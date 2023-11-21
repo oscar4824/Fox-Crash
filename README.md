@@ -76,25 +76,27 @@ El nivel tendrá menos tiempo para que el jugador pueda llegar a la meta
 # Lecciones
 - **Lección 1**
 - **Reto Lección 1**
-- [**Video**](www.youtube.com/34rwerwer2)
+
 
 <br>
 
 - **Lección 2**
 - **Reto Lección 2**
-- [**Video**](www.youtube.com/34rwerwer2)
+
 
 <br>
 
 - **Lección 3**
 - **Reto Lección 3**
-- [**Video**](www.youtube.com/34rwerw2)
+
 
 <br>
 
 - **Lección 4**
 - **Reto Lección 4**
-- [**Video**](www.youtube.com/34rwerwer2)
+
+** Lecciones Videos **
+- [**Lecciones**](https://drive.google.com/drive/u/0/folders/16Q7i-OnByJOQ39_Lx62NIJJRhMznb1BQ)
 
 
 
