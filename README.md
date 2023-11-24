@@ -10,6 +10,8 @@
 * [**Trello**](#trello)
 * [**UnityPackage**](#unitypackage)
 * [**Lecciones**](#lecciones)
+* [**Videos de Lecciones**](#videos)
+
 
 # Introducción
 - **Nombre del Videojuego**: Fox-Crash
@@ -34,20 +36,18 @@ que descubrirlo.
 <br>
 
 - **Niveles**: 2 Básico y Difícil
-- **Armas**: Objetos
-- **Objetos Especiales**: vidas extra
+- **Objetos Especiales**: Frutas
 - **Guión**:
 -   **Primer Nivel**
 El jugador comienza en un lugar establecido en medio del bosque
 Comienza el juego al presionar el botón de inicio
 El juego inicia con el jugador “Zorro” haciendo un movimiento
-El jugador tendrá que presionar las flechas para poder comenzar la aventura
-El escenario es aventura por lo que el jugador tendrá que descubrir los enemigos y los power ups que se
-puedan encontrar siendo el cometido final lograr a la meta donde está la comida.
+El jugador tendrá que presionar las flechas o las teclas AWSD para poder comenzar la aventura y moverse
+El escenario es aventura por lo que el jugador tendrá que descubrir los enemigos que se
+puedan encontrar siendo el cometido final lograr recolectar todas las frutas en el tiempo que se le da.
 -    **Segundo Nivel**
 Inicia el nivel en un lugar establecido en el bosque
-Comienza al presionar el botón de inicio
-El juego inició con el score anterior para tener más puntuación y más tiempo, por ende
+Comienza al presionar cualquier boton
 Además, el jugador tendrá que sortear más enemigos que el primer nivel
 El escenario de la aventura podrá tener un estilo un poco diferente
 El nivel tendrá menos tiempo para que el jugador pueda llegar a la meta
@@ -95,7 +95,7 @@ El nivel tendrá menos tiempo para que el jugador pueda llegar a la meta
 - **Lección 4**
 - **Reto Lección 4**
 
-** Lecciones Videos **
+** Videos **
 - [**Lecciones**](https://drive.google.com/drive/u/0/folders/16Q7i-OnByJOQ39_Lx62NIJJRhMznb1BQ)
 
 
