@@ -9,6 +9,7 @@
 * [**Planificación**](#planificación)
 * [**Trello**](#trello)
 * [**UnityPackage**](#unitypackage)
+* [**Builds**](#builds)
 * [**Lecciones**](#lecciones)
 * [**Videos de Lecciones**](#videos)
 
@@ -72,6 +73,13 @@ El nivel tendrá menos tiempo para que el jugador pueda llegar a la meta
 # UnityPackage
 - Esta sección es para agregar el enlace al UnityPackage el cual podra ser descargado desde Google Drive con los avances del mismo
 - [UnityPackage](https://drive.google.com/drive/folders/1dGeBjznAWVHw4ZV5bpkoQjePxFYYGt-I?usp=sharing)
+
+# Builds
+- En esta sección estaran las builds que se generaron para el juego siendo las actuales
+- - PC
+  - Mobile .APK
+  - Web
+- [Builds](https://drive.google.com/drive/folders/1zJVW11T1fhZ5luMH35V2DYlMmTFrc-EA?usp=sharing)
   
 # Lecciones
 - **Lección 1**
