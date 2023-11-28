@@ -17,15 +17,13 @@
 # Introducción
 - **Nombre del Videojuego**: Fox-Crash
 - **Historia**: Nuestro personaje es un Zorro el cual estará en busca de comida en un entorno que cuenta
-con árboles, calles, rocas y objetos que le dan vida a nuestro jugador por ejemplo corazones rojos esta
-se encontrará en lugares aleatorios en la escena de juego, en la cual existen enemigos que le impedirán
-obtener la comida con facilidad estos enemigos son rocas que pueden tocar al jugador y le restan vidas
-y a estos los tendrá que derrotar o esquivar para lograr su meta.
-El jugador dependiendo de la astucia podrá ya sea derrotar a los enemigos o por otro lado esquivarlos,
-por lo que puedes elegir tu rol atacando pasando desapercibido por lo enemigos, todo esto mientras se
+con árboles, calles, roca, dentro del mapa existen enemigos que le impedirán
+obtener la comida con facilidad estos enemigos son zombies los cuales lo perseguiran hasta morderlo y hacerlo lento, perdiendo tiempo nuestro player.
+El jugador dependiendo de la astucia podrá esquivarlos,
+por lo que puedes elegir tu rol pasando desapercibido por lo enemigos, todo esto mientras se
 toma una ambientación en la Universidad Tecnológica del Norte de Guanajuato o se trata de ambientar
 ya que para ello se lograra un escenario donde se tendrán colinas, arboles y claramente edificios donde
-Zorro nuestro jugador podrá moverse y derrotar a los enemigos o bien escullirse entre ellos, el cometido
+Zorro nuestro jugador podrá moverse y sortear a los enemigos o bien escullirse entre ellos, el cometido
 de Zorro el jugador es poder llegar a la comida que le espera en algún del mapa por lo que este tiene
 que descubrirlo.
 - **Personaje**: Nuestro personaje principal es un zorro animado
